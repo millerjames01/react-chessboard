@@ -12,6 +12,10 @@
 
 </div>
 
+## This Fork
+
+This is a modified version of react-chessboard that I am using to build a real-time chess game.
+
 ## What is react-chessboard?
 
 react-chessboard is a React component that provides chessboard functionality to your application. The Chess game logic that controls the board should be independent to the board, using a library such as [Chess.js](https://github.com/jhlywa/chess.js). An example of these two working together is shown [in the example below](#basic-example). For interactive examples visit [react-chessboard.com](https://react-chessboard.com).

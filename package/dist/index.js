@@ -9756,7 +9756,7 @@ const ChessboardProvider = /*#__PURE__*/React.forwardRef(({
 
         setPositionDifferences(differences); // animate external move
 
-        setWaitingForAnimation(true);
+        // setWaitingForAnimation(true);
         const newTimeout = setTimeout(() => {
           setCurrentPosition(newPosition);
           setWaitingForAnimation(false);
